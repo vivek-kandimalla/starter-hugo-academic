@@ -11,7 +11,7 @@ role: Graduate Student - Economics
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Indian Institute of Management Bangalore
-  url: https://www.iimb.ac.in/
+  url: https://www.iimb.ac.in/node/9418
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include International Economics, Development & Political Economy .
@@ -25,15 +25,14 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: PhD in Economics
+    institution: Indian Institute of Management, Bangalore
+    year: Current
+  - course: MSc in Management
+    institution: Nyenrode Business Universiteit, Breukelen - Netherlands
+    year: 2020
   - course: BTech in Mechanical Engineering
-    institution: Indian Institute of Technology (Indian School of Mines) Dhanbad
-    url: https://www.iitism.ac.in/
+    institution: Indian Institute of Technology (Indian School of Mines), Dhanbad
     year: 2008
 
 # Social/Academic Networking
@@ -46,7 +45,7 @@ social:
   link: 'mailto:saik21@iimb.ac.in'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/vivek-kandi
+  link: https://twitter.com/vivek_kandi
 #- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
  # icon_pack: fas
   #link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -71,8 +70,8 @@ email: ""
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+#Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+#Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
