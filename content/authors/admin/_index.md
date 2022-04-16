@@ -6,21 +6,21 @@ title: Nelson Bighetti
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Graduate Student - Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Indian Institute of Management Bangalore
+  url: https://www.iimb.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include International Economics, Development & Political Economy .
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International Trade
+- Development Economics
+- Political Economy
 
 # Education to show in About widget
 education:
@@ -31,8 +31,9 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BTech in Mechanical Engineering
+    institution: Indian Institute of Technology (Indian School of Mines) Dhanbad
+    url: https://www.iitism.ac.in/
     year: 2008
 
 # Social/Academic Networking
